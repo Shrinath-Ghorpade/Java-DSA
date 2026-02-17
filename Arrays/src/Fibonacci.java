@@ -1,3 +1,4 @@
+
 public class Fibonacci {
 
     static void series(int num){

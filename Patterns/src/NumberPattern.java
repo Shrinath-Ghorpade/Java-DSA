@@ -1,4 +1,4 @@
-package src;
+package Patterns.src;
 
 public class NumberPattern {
     public static void main(String[] args) {
